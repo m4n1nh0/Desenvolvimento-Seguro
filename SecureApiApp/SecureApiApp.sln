@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureApiApp", "SecureApiApp\SecureApiApp.csproj", "{B59A3B36-7090-4629-B4AD-7B2BB26DD73F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B59A3B36-7090-4629-B4AD-7B2BB26DD73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59A3B36-7090-4629-B4AD-7B2BB26DD73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59A3B36-7090-4629-B4AD-7B2BB26DD73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59A3B36-7090-4629-B4AD-7B2BB26DD73F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E66BD314-705C-4BE4-8205-50F76829E16C}
+	EndGlobalSection
+EndGlobal

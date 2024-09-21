@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JMJ+HCXHEmTIcLuaYQtZ6IhEewPy9JF3u5aC65T3tgE=",
+  "Source": "SecureApiApp",
+  "BasePath": "_content/SecureApiApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
